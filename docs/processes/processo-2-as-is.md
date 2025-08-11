@@ -49,8 +49,8 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | ---                  | ---                            | ---               |
 | [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
 | ***Exemplo:***       |                                |                   |
-| entrar               | Fim do Processo 1              | default           |
-| cadastrar            | Início do proceso de cadastro  |                   |
+| entrar               | Fim do Processo 2              | default           |
+| cadastrar            | Início do processo de cadastro  |                   |
 
 
 **Nome da atividade 2**
