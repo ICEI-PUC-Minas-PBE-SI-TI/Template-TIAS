@@ -37,7 +37,7 @@ Por meio da procuração, o parceiro concede poderes à PUC Minas para realizar 
 
 ---
 
-### c) 📌 Termo de renúncia de direito e cotitularidade
+### c) 📌 Termo de renúncia a direitos de cotitularidade
 
 Utilizado quando o parceiro externo participa do projeto, mas **não deseja ser cotitular do software**.
 
